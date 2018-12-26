@@ -1,0 +1,1 @@
+SQLCMD -S DESKTOP-AAGVBOR -E -i QuanLyDaiLy.sql

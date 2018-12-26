@@ -1,0 +1,56 @@
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.vbprojResolveAssemblyReference.cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.Resources.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.vbproj.GenerateResource.Cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyBUS.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyBUS.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyBUS.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDAL.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDTO.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\Utility.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDTO.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDTO.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDAL.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDAL.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\Utility.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\Utility.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyBUS.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyBUS.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyBUS.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDAL.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDTO.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\Utility.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDTO.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDTO.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDAL.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDAL.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\Utility.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\Utility.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.vbprojResolveAssemblyReference.cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.Resources.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.vbproj.GenerateResource.Cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyBUS.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyBUS.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyBUS.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDAL.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDTO.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\Utility.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDTO.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDTO.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDAL.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\QLDaiLyDAL.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\Utility.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\bin\Debug\Utility.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.vbprojAssemblyReference.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.Resources.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.vbproj.GenerateResource.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.vbproj.CoreCompileInputs.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.vbproj.CopyComplete
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyBUS\obj\Debug\QLDaiLyBUS.pdb

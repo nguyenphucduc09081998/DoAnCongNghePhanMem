@@ -1,0 +1,35 @@
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\DaiLyDTO\bin\Debug\QLDaiLyDTO.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\DaiLyDTO\bin\Debug\QLDaiLyDTO.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\DaiLyDTO\bin\Debug\QLDaiLyDTO.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.vbprojResolveAssemblyReference.cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.Resources.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.vbproj.GenerateResource.Cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\QLDaiLyDTO.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\QLDaiLyDTO.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\QLDaiLyDTO.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.vbprojResolveAssemblyReference.cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.Resources.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.vbproj.GenerateResource.Cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\Utility.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\Utility.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\Utility.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\QLDaiLyDTO.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\QLDaiLyDTO.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\QLDaiLyDTO.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\Utility.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\Utility.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\bin\Debug\Utility.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.vbprojAssemblyReference.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.Resources.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.vbproj.GenerateResource.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.vbproj.CoreCompileInputs.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.vbproj.CopyComplete
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\DaiLyDTO\obj\Debug\QLDaiLyDTO.pdb

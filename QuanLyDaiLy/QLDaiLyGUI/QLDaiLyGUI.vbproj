@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{433E2487-C9F0-4037-AE5A-6B03D435C5F6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>QLDaiLyGUI.My.MyApplication</StartupObject>
+    <RootNamespace>QLDaiLyGUI</RootNamespace>
+    <AssemblyName>QLDaiLyGUI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>QLDaiLyGUI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>QLDaiLyGUI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPhieuXuat.Designer.vb">
+      <DependentUpon>frmPhieuXuat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLBCCongNo.Designer.vb">
+      <DependentUpon>frmQLBCCongNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLBCCongNo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLBCDoanhSo.Designer.vb">
+      <DependentUpon>frmQLBCDoanhSo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLBCDoanhSo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLChiTietPhieuXuat.Designer.vb">
+      <DependentUpon>frmQLChiTietPhieuXuat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLChiTietPhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLDaiLy.Designer.vb">
+      <DependentUpon>frmQLDaiLy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLDaiLy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLDonViTinh.Designer.vb">
+      <DependentUpon>frmQLDonViTinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLDonViTinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLLoaiDLvb.Designer.vb">
+      <DependentUpon>frmQLLoaiDLvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLLoaiDLvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLMatHang.Designer.vb">
+      <DependentUpon>frmQLMatHang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLMatHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLPhieuThuTien.Designer.vb">
+      <DependentUpon>frmQLPhieuThuTien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLPhieuThuTien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLPhieuXuat.Designer.vb">
+      <DependentUpon>frmQLPhieuXuat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLPhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLQuan.Designer.vb">
+      <DependentUpon>frmQLQuan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLQuan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThamSo.Designer.vb">
+      <DependentUpon>frmThamSo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThamSo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemBCCongNo.Designer.vb">
+      <DependentUpon>frmThemBCCongNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemBCCongNo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemChiTietPhieuXuat.Designer.vb">
+      <DependentUpon>frmThemChiTietPhieuXuat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemChiTietPhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemDaiLy.Designer.vb">
+      <DependentUpon>frmThemDaiLy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemDaiLy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemDonViTinh.Designer.vb">
+      <DependentUpon>frmThemDonViTinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemDonViTinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemLoaiDL.Designer.vb">
+      <DependentUpon>frmThemLoaiDL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemLoaiDL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemMatHang.Designer.vb">
+      <DependentUpon>frmThemMatHang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemMatHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemPhieuThuTien.Designer.vb">
+      <DependentUpon>frmThemPhieuThuTien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemPhieuThuTien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemQuan.Designer.vb">
+      <DependentUpon>frmThemQuan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemQuan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="TraCuu.Designer.vb">
+      <DependentUpon>TraCuu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TraCuu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPhieuXuat.resx">
+      <DependentUpon>frmPhieuXuat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLBCCongNo.resx">
+      <DependentUpon>frmQLBCCongNo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLBCDoanhSo.resx">
+      <DependentUpon>frmQLBCDoanhSo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLChiTietPhieuXuat.resx">
+      <DependentUpon>frmQLChiTietPhieuXuat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLDaiLy.resx">
+      <DependentUpon>frmQLDaiLy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLDonViTinh.resx">
+      <DependentUpon>frmQLDonViTinh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLLoaiDLvb.resx">
+      <DependentUpon>frmQLLoaiDLvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLMatHang.resx">
+      <DependentUpon>frmQLMatHang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLPhieuThuTien.resx">
+      <DependentUpon>frmQLPhieuThuTien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLPhieuXuat.resx">
+      <DependentUpon>frmQLPhieuXuat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLQuan.resx">
+      <DependentUpon>frmQLQuan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThamSo.resx">
+      <DependentUpon>frmThamSo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemBCCongNo.resx">
+      <DependentUpon>frmThemBCCongNo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemChiTietPhieuXuat.resx">
+      <DependentUpon>frmThemChiTietPhieuXuat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemDaiLy.resx">
+      <DependentUpon>frmThemDaiLy.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemDonViTinh.resx">
+      <DependentUpon>frmThemDonViTinh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemLoaiDL.resx">
+      <DependentUpon>frmThemLoaiDL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemMatHang.resx">
+      <DependentUpon>frmThemMatHang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemPhieuThuTien.resx">
+      <DependentUpon>frmThemPhieuThuTien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemQuan.resx">
+      <DependentUpon>frmThemQuan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TraCuu.resx">
+      <DependentUpon>TraCuu.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DaiLyDTO\QLDaiLyDTO.vbproj">
+      <Project>{7978707c-90b9-421e-8c49-911292175165}</Project>
+      <Name>QLDaiLyDTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QLDaiLyBUS\QLDaiLyBUS.vbproj">
+      <Project>{bd363a59-da1b-4769-bc41-639e8f178663}</Project>
+      <Name>QLDaiLyBUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utility\Utility.vbproj">
+      <Project>{5a5a0a0e-e01f-4f51-ab84-7db17db70d4f}</Project>
+      <Name>Utility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\36512441_631482657209441_1715362805051293696_n.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

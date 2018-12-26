@@ -1,0 +1,115 @@
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.exe.config
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.exe
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.Form1.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemDaiLy.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.Resources.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.vbproj.GenerateResource.Cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.exe
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.vbprojResolveAssemblyReference.cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyBUS.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDTO.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\Utility.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDAL.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDTO.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDTO.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyBUS.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyBUS.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\Utility.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\Utility.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDAL.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDAL.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.exe.config
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.exe
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.vbprojResolveAssemblyReference.cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.Form1.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemDaiLy.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.Resources.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.vbproj.GenerateResource.Cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.exe
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyBUS.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDTO.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\Utility.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDAL.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDTO.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDTO.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyBUS.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyBUS.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\Utility.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\Utility.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDAL.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDAL.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThamSo.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemQuan.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemLoaiDL.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLDaiLy.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLQuan.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLLoaiDLvb.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemMatHang.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLMatHang.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemDonViTinh.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLDonViTinh.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmPhieuXuat.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLPhieuXuat.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemChiTietPhieuXuat.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLChiTietPhieuXuat.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLPhieuThuTien.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemPhieuThuTien.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLBCCongNo.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLBCDoanhSo.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemBCCongNo.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemBCDoanhSo.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.TraCuu.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.exe.config
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.exe
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyGUI.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyBUS.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDTO.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\Utility.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDAL.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDTO.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDTO.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyBUS.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyBUS.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\Utility.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\Utility.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDAL.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\bin\Debug\QLDaiLyDAL.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.vbprojAssemblyReference.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.Form1.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmPhieuXuat.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLBCCongNo.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLBCDoanhSo.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLChiTietPhieuXuat.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLDaiLy.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLDonViTinh.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLLoaiDLvb.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLMatHang.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLPhieuThuTien.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLPhieuXuat.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmQLQuan.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThamSo.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemBCCongNo.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemChiTietPhieuXuat.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemDaiLy.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemDonViTinh.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemLoaiDL.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemMatHang.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemPhieuThuTien.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.frmThemQuan.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.Resources.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.TraCuu.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.vbproj.GenerateResource.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.vbproj.CoreCompileInputs.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.vbproj.CopyComplete
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.exe
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\QLDaiLyGUI\obj\Debug\QLDaiLyGUI.pdb

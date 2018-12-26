@@ -1,0 +1,28 @@
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\Utility\bin\Debug\Utility.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\Utility\bin\Debug\Utility.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\Utility\bin\Debug\Utility.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\Utility\obj\Debug\Utility.vbprojResolveAssemblyReference.cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\Utility\obj\Debug\Utility.Resources.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\Utility\obj\Debug\Utility.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\Utility\obj\Debug\Utility.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAn\QuanLyDaiLy\Utility\obj\Debug\Utility.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\bin\Debug\Utility.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\bin\Debug\Utility.pdb
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\bin\Debug\Utility.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.vbprojResolveAssemblyReference.cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.Resources.resources
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.dll
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.xml
+D:\HỌC KÌ 4_KÌ 2 NĂM 2\Nhập Mon công nghệ phần mêm\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\bin\Debug\Utility.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\bin\Debug\Utility.pdb
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\bin\Debug\Utility.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.Resources.resources
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.dll
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.xml
+D:\Document\cong nghe PM\doanmoi\DoAnQuanLyDaiLy\QuanLyDaiLy\Utility\obj\Debug\Utility.pdb
